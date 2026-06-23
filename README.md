@@ -4,9 +4,12 @@ Windows, Linux and Python versions are available in releases.
 
 
 Notices-
+Code was made using Ai, tested by me.
+
 Windows and Linux Versions were made and exported with the Redot Engine
 
 This project uses:
+
 - Python, licensed under the Python Software Foundation License
 - PySide6 / Qt for Python, see Qt for Python licensing information
 - PyInstaller for packaged builds, see PyInstaller license information
