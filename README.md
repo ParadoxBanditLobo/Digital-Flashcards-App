@@ -1,6 +1,7 @@
-Flashcards App, meant to be a simple studying tool that lets you use your own test bank.
+Flashcards App, meant to be a simple studying tool that lets you use your own test bank made in CSV files.
 
-Windows and Linux versions are available, and a Python version as well.
+Windows, Linux and Python versions are available in releases.
+
 
 Notices-
 Windows and Linux Versions were made and exported with the Redot Engine
