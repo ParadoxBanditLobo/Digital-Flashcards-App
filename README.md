@@ -1,4 +1,6 @@
 Flashcards App, meant to be a simple studying tool that lets you use your own test bank made in CSV files.
+Supports both word and definition format, as well as multiple choice.
+
 
 Windows, Linux and Python versions are available in releases.
 
