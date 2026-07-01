@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python build output
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Redot / Godot editor cache
+.godot/
+.import/
+*.import
+*.uid
+
+# Redot / Godot export secrets
+export.cfg
+export_credentials.cfg
+
+# Exported builds / release files
+*.exe
+*.x86_64
+*.pck
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
+*.7z
+
+# Local/system junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs/temp
+*.log
+*.tmp
+*.bak
