@@ -27,7 +27,6 @@ Install the dependency:
 
 ```sh
 pip install -r Python/requirements.txt
-
 ```
 
 Run the Python app from the `Python/` folder:
