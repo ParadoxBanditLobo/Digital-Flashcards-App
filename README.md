@@ -27,3 +27,24 @@ Install the dependency:
 
 ```sh
 pip install -r Python/requirements.txt
+
+```
+
+Run the Python app from the `Python/` folder:
+
+```sh
+cd Python
+python flashcards.py
+```
+
+## Notes
+
+The Windows and Linux versions were exported with the Redot Engine.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Development disclosure
+
+This project was made with AI assistance and manually tested.
