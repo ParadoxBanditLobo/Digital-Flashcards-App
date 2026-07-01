@@ -1,17 +1,29 @@
-Flashcards App, meant to be a simple studying tool that lets you use your own test bank made in CSV files.
-Supports both word and definition format, as well as multiple choice.
+# Digital Flashcards App
 
+A simple flashcard study tool that lets you study from your own CSV files.
 
-Windows, Linux and Python versions are available in releases.
+## Features
 
+- Study from custom CSV files
+- Supports word/definition flashcards
+- Supports multiple choice flashcards
+- Windows, Linux, and Python versions are available through Releases
 
-Notices-
-Code was made using Ai, tested by me.
+## Downloads
 
-Windows and Linux Versions were made and exported with the Redot Engine
+Ready-to-run Windows and Linux builds are available from the Releases page.
 
-This project uses:
+A Python version is also included for users who prefer to run it manually.
 
-- Python, licensed under the Python Software Foundation License
-- PySide6 / Qt for Python, see Qt for Python licensing information
-- PyInstaller for packaged builds, see PyInstaller license information
+## Full Disclosure
+
+Ai was used to create this tool
+
+## Python version
+
+The Python version is in the `Python/` folder.
+
+Install the dependency:
+
+```sh
+pip install -r Python/requirements.txt
